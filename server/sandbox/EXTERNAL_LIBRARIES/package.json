@@ -1,0 +1,26 @@
+{
+  "name": "test-npm-init",
+  "version": "1.0.0",
+  "description": "testing the npm init command",
+  "main": "app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "node test",
+    "dev": "node app.js",
+    "print": "ECHO you enter print command ECHO",
+    "mishmish": "ECHO i am Mishmish!!! && node .",
+    "shula": "nodemon ."
+  },
+  "keywords": [
+    "test",
+    "testing"
+  ],
+  "author": "David Yakin",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

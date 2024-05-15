@@ -1,0 +1,6 @@
+{
+  "NODE_ENV": "development",
+  "PORT": 8181,
+  "DB_NAME": null,
+  "DB_PASSWORD": null
+}
